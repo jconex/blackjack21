@@ -1,5 +1,5 @@
 # blackjack21 - C#
-**Demo blackjack en C#**
+**Demo blackjack C#**
 
 
 ![DEMO1](blob/img1.png)
