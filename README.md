@@ -1,1 +1,2 @@
-# blackjack21
+# blackjack21 - C#
+Demo blackjack en C#
